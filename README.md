@@ -1,3 +1,3 @@
 # Sorting-Algorithm
 
-I'm making a sorting algorithm time complexity visualiser using python
+A benchmark tool for sorting algorithms, streamlining benchmarking, comparison, and visualisation of their respective time complexities.
